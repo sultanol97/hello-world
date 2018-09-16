@@ -3,8 +3,8 @@
 ### App Description
 My first andriod app allows the user to change the color of my text, app background and change the text shown by clicking each button.
 ### App Walk-though
-<a href="https://imgflip.com/gif/2i17wo"><img src="https://i.imgflip.com/2i17wo.gif" title="made at imgflip.com"/></a>
 
+<img src="https://i.imgur.com/HB5SOFK.gif" width=200><br>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
